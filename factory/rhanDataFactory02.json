@@ -1,0 +1,9 @@
+{
+	"name": "rhanDataFactory02",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a193b958-564a-4f3e-84c6-f98aa9a11391",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
